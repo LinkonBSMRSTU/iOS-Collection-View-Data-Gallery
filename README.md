@@ -1,6 +1,6 @@
 # iOS-Collection-View-Data-Gallery
 
-An example of a Simple COllection View in iOS 13, Swift 5.
+An example of a Simple Collection View in iOS 13, Swift 5.
 
 1. JSON Data Fetched from here: [Simple API](https://reqres.in/api/users?page=1)
 2. Used  **SwiftyJSON** and **Alamofire**
